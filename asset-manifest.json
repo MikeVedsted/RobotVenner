@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RobotVenner/static/css/main.5d3d21c4.chunk.css",
+    "main.js": "/RobotVenner/static/js/main.4c45812b.chunk.js",
+    "main.js.map": "/RobotVenner/static/js/main.4c45812b.chunk.js.map",
+    "runtime-main.js": "/RobotVenner/static/js/runtime-main.7ed60ecb.js",
+    "runtime-main.js.map": "/RobotVenner/static/js/runtime-main.7ed60ecb.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RobotVenner/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c13d78d9.chunk.js": "/RobotVenner/static/js/2.c13d78d9.chunk.js",
+    "static/js/2.c13d78d9.chunk.js.map": "/RobotVenner/static/js/2.c13d78d9.chunk.js.map",
+    "index.html": "/RobotVenner/index.html",
+    "precache-manifest.338449fbac0cc78a52f1b0db82ceed23.js": "/RobotVenner/precache-manifest.338449fbac0cc78a52f1b0db82ceed23.js",
+    "service-worker.js": "/RobotVenner/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RobotVenner/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5d3d21c4.chunk.css.map": "/RobotVenner/static/css/main.5d3d21c4.chunk.css.map",
+    "static/js/2.c13d78d9.chunk.js.LICENSE": "/RobotVenner/static/js/2.c13d78d9.chunk.js.LICENSE",
+    "static/media/App.css": "/RobotVenner/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed60ecb.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c13d78d9.chunk.js",
+    "static/css/main.5d3d21c4.chunk.css",
+    "static/js/main.4c45812b.chunk.js"
+  ]
+}
